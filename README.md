@@ -1,1 +1,2 @@
-# G_C_S_O
+# p5.play-boilerplate
+Boiler plate for p5.play
